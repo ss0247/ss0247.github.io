@@ -3,8 +3,12 @@ This github repository contains Solutions for the Assignments of the course 'HTM
 
 # Assignments :
 Module-1 - Quiz
+
 Module-2 - Coding
+
 Module-3 - Coding
+
 Module-4 - Coding
+
 Module-5 - Coding
 
